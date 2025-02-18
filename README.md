@@ -1,4 +1,4 @@
-Best viewed in **Dark Mode**! Enable it in GitHub settings. 
+
 # <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
