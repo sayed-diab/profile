@@ -1,17 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayed Diab
 
-###
+## Front-End Developer | React Enthusiast | UI/UX Passionate
 
-<p align="left">My name is Sayed Diab and I'm a Frontend Developer, from Egypt</p>
+Welcome to my GitHub profile! I'm a front-end developer passionate about building fast, interactive, and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and React, I love creating beautiful and efficient web experiences. 🚀
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Sass,PHP<br>🎯 Goals: Become SW Engineer <br>🎲 Fun fact: Coding is fun</p>
-
+- 🌍  I'm based in Egypt
+- 🖥️  See my portfolio at [Here](http://sayed-diab.github.io/Portfolio/)
+- ✉️  You can contact me at [sayeddebo95@gmail.com](mailto:sayeddebo95@gmail.com)
+- 🧠  I'm learning Sass,Next.js
+- ⚡  I Love Coding <3
+- 
 ###
 
 <h2 align="left">I code with</h2>
