@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://svgshare.com/i/11_x.svg" width="100%">
+</p>
 # <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
